@@ -1,0 +1,12 @@
+fedora-package-review
+=====================
+
+This is a simple script to find the review request of some packages
+in Fedora.
+
+Usage
+-----
+
+python fedora-package-review.py <pkg1> <pkg2> <pkg3> ...
+
+
